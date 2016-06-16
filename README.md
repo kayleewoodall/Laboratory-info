@@ -69,5 +69,5 @@ Informed PGx requisition form (covers all pharmacogenetic testing): https://web.
 Informed PGx Brochure: https://web.archive.org/web/20150319032457/http://progenity.com/sites/default/files/resources/PGx_Patient_Brochure_02-25-2015_FINAL.pdf
 Informed PGx Fact sheet: https://web.archive.org/web/20150319001114/http://progenity.com/sites/default/files/resources/Informed_PGx_Fact_Sheet_03-02-2015_FINAL.pdf
 Added "About Us" section on the main page
-Recategorized tests to "Women's Health Testing" and "Pediatric Testing"
-Added location finder to Resources
+Recategorized tests to "Women's Health Testing" and "Pediatric Testing" instead of "Genetic Carrier Screening" and "Testing for Genetic Abnormailities"
+Added location finder to Resources: https://web.archive.org/web/20150313171939/http://progenity.com/service-center-locations
