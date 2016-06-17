@@ -102,3 +102,13 @@ Preparent Fragile X Performance Data: http://progenity.com/sites/default/files/r
 Fragile X Requisition Form: http://progenity.com/sites/default/files/resources/Progenity_WHReq_eform081315a.pdf#view=Fit
 Fragile X Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
 
+AJPnxt Brochure: http://progenity.com/sites/default/files/resources/Preparent_AJP_Patient_Brochure_11-16-2015_FINAL-SINGLES.pdf#view=Fit
+AJPnxt Fact Sheet: http://progenity.com/sites/default/files/resources/AJP_Fact%20Sheet-082014-FINAL.pdf#view=Fit
+AJPnxt Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20for%20Jewish%20Carrier%20Screening%2007-25-2014-FINAL.pdf#view=Fit
+Preparent AJPnxt Performance Data: http://progenity.com/sites/default/files/resources/Preparent_AJP_Carrier_Screen_Risk_Table_2016-04-10_APPROVED.pdf#view=Fit
+AJPnxt Mutation List: http://progenity.com/sites/default/files/resources/AJP_Mutations_082014.pdf#view=Fit
+AJPnxt Requisition form: http://progenity.com/sites/default/files/resources/Progenity_WHReq_eform081315a.pdf#view=Fit
+AJPnxt Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
+Pan-Ethnic Carrier Screening Panel information: http://progenity.com/pan-ethnic-carrier-screening-panel
+
