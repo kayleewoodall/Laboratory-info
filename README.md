@@ -75,7 +75,7 @@ Added location finder to Resources: https://web.archive.org/web/20150313171939/h
 
 
 UP TO DATE INFORMATION:
-Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx, CMA for Pediatric Genetic Testing
+Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx, CMA for Pediatric Genetic Testing, Fragile X Analysis for Pediatric Diagnosis, Informed PGx for Pediatrics
 
 nxtPanel Brochure: http://progenity.com/sites/default/files/resources/Preparent_Trio_Panel_Patient_Brochure_10-19-2015_FINAL-SINGLES.pdf#view=Fit
 nxtPanel Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20for%20Carrier%20Screening%2007-25-2014-FINAL_0.pdf#view=Fit
@@ -146,3 +146,8 @@ Fragile X Analysis for Pediatric Diagnosis Fact Sheet: http://progenity.com/site
 Fragile X Analysis for Pediatric Diagnosis Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20Ped-Microarray%2BFX_11-10-14-FINAL.pdf#view=Fit
 Fragile X Analysis for Pediatric Diagnosis Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PediatricReq_eform080515a.pdf#view=Fit
 Fragile X Analysis for Pediatric Diagnosis Specimen Guide: http://progenity.com/sites/default/files/resources/PediatricSpecimenGuide_07-28-2015_FINAL.pdf#view=Fit
+
+Informed PGx for Pediatrics Brochure: http://progenity.com/sites/default/files/resources/PGx_Pediatrics_Brochure_Web-04-07-2015-FINAL.pdf#view=Fit
+Informed PGx for Pediatrics Fact Sheet: http://progenity.com/sites/default/files/resources/Informed_PGx_Fact_Sheet_11-11-2015-FINAL.pdf#view=Fit
+Informed PGx for Pediatrics Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PGxReq_eform081415a.pdf#view=Fit
+Informed PGx for Pediatrics Specimen Guide: http://progenity.com/sites/default/files/resources/PediatricSpecimenGuide_07-28-2015_FINAL.pdf#view=Fit
