@@ -71,3 +71,4 @@ Informed PGx Fact sheet: https://web.archive.org/web/20150319001114/http://proge
 Added "About Us" section on the main page
 Recategorized tests to "Women's Health Testing" and "Pediatric Testing" instead of "Genetic Carrier Screening" and "Testing for Genetic Abnormailities"
 Added location finder to Resources: https://web.archive.org/web/20150313171939/http://progenity.com/service-center-locations
+
