@@ -75,7 +75,7 @@ Added location finder to Resources: https://web.archive.org/web/20150313171939/h
 
 
 UP TO DATE INFORMATION:
-Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx
+Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx, CMA for Pediatric Genetic Testing
 
 nxtPanel Brochure: http://progenity.com/sites/default/files/resources/Preparent_Trio_Panel_Patient_Brochure_10-19-2015_FINAL-SINGLES.pdf#view=Fit
 nxtPanel Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20for%20Carrier%20Screening%2007-25-2014-FINAL_0.pdf#view=Fit
@@ -134,3 +134,15 @@ Informed PGx Brochure: http://progenity.com/sites/default/files/resources/PGx_Pa
 Informed PGx Fact Sheet: http://progenity.com/sites/default/files/resources/Informed_PGx_Fact_Sheet_11-11-2015-FINAL.pdf#view=Fit
 Informed PGx Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PGxReq_eform081415a.pdf#view=Fit
 Informed PGx Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
+CMA for Pediatric Genetic Testing Brochure: http://progenity.com/sites/default/files/resources/Pediatric_CMA_Patient_Brochure-12-01-2015-FINAL-SINGLES.pdf#view=Fit
+CMA for Pediatric Genetic Testing Fact Sheet: http://progenity.com/sites/default/files/resources/Pediatrics%20CMA%20Fact%20Sheet-112014_FINAL.pdf#view=Fit
+CMA for Pediatric Genetic Testing Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20Ped-Microarray%2BFX_11-10-14-FINAL.pdf#view=Fit
+CMA for Pediatric Genetic Testing Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PediatricReq_eform080515a.pdf#view=Fit
+CMA for Pediatric Genetic Testing Specimen Guide: http://progenity.com/sites/default/files/resources/PediatricSpecimenGuide_07-28-2015_FINAL.pdf#view=Fit
+
+Fragile X Analysis for Pediatric Diagnosis Brochure: http://progenity.com/sites/default/files/resources/Pediatric_Fragile_X_Patient_Brochure-12-10-2015-FINAL-SINGLES.pdf#view=Fit
+Fragile X Analysis for Pediatric Diagnosis Fact Sheet: http://progenity.com/sites/default/files/resources/Pediatrics_FragileX_Fact_Sheet-011315_FINAL.pdf#view=Fit
+Fragile X Analysis for Pediatric Diagnosis Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20Ped-Microarray%2BFX_11-10-14-FINAL.pdf#view=Fit
+Fragile X Analysis for Pediatric Diagnosis Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PediatricReq_eform080515a.pdf#view=Fit
+Fragile X Analysis for Pediatric Diagnosis Specimen Guide: http://progenity.com/sites/default/files/resources/PediatricSpecimenGuide_07-28-2015_FINAL.pdf#view=Fit
