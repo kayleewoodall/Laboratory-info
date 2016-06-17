@@ -73,6 +73,7 @@ Recategorized tests to "Women's Health Testing" and "Pediatric Testing" instead 
 Added location finder to Resources: https://web.archive.org/web/20150313171939/http://progenity.com/service-center-locations
 
 
+
 UP TO DATE INFORMATION:
 Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx
 
