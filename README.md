@@ -123,3 +123,13 @@ CMA for Pregnancy Loss Fact Sheet: http://progenity.com/sites/default/files/reso
 CMA for Pregnancy Loss Gene List: http://progenity.com/sites/default/files/resources/CMA_for_Pregnancy_Loss_Gene_List_FINAL.pdf#view=Fit
 CMA for Pregnancy Loss Requisition form: http://progenity.com/sites/default/files/resources/Progenity_CMAPregLossReq_eform081915a_1.pdf#view=Fit
 CMA for Pregnancy Loss Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
+Ovarian Assessment Report Brochure: http://progenity.com/sites/default/files/resources/OAR_Patient_Brochure_02-26-2015_FINAL_singles_0.pdf#view=Fit
+Ovarian Assessment Report Fact Sheet: http://progenity.com/sites/default/files/resources/Ovarian_Assessment_Fact_Sheet_02-25-2051_FINAL.pdf#view=Fit
+Ovarian Assessment Report Requisition form: http://progenity.com/sites/default/files/resources/Progenity_OvarianReq_eform081415a.pdf#view=Fit
+Ovarian Assessment Report Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
+Informed PGx Brochure: http://progenity.com/sites/default/files/resources/PGx_Patient_Brochure-12-10-2015-FINAL-SINGLES.pdf#view=Fit
+Informed PGx Fact Sheet: http://progenity.com/sites/default/files/resources/Informed_PGx_Fact_Sheet_11-11-2015-FINAL.pdf#view=Fit
+Informed PGx Requisition form: http://progenity.com/sites/default/files/resources/Progenity_PGxReq_eform081415a.pdf#view=Fit
+Informed PGx Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
