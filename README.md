@@ -72,3 +72,12 @@ Added "About Us" section on the main page
 Recategorized tests to "Women's Health Testing" and "Pediatric Testing" instead of "Genetic Carrier Screening" and "Testing for Genetic Abnormailities"
 Added location finder to Resources: https://web.archive.org/web/20150313171939/http://progenity.com/service-center-locations
 
+UP TO DATE INFORMATION:
+Tests: nxtPanel, CFnxt, SMAnxt, Fragile X, AJPnxt, Pan-Ethnic Carrier Screening, verifi Prenatal Test, CMA for Pregnancy Loss, Ovarian Assessment Report, Informed PGx
+
+nxtPanel Brochure: http://progenity.com/sites/default/files/resources/Preparent_Trio_Panel_Patient_Brochure_10-19-2015_FINAL-SINGLES.pdf#view=Fit
+nxtPanel Informed Consent: http://progenity.com/sites/default/files/resources/Informed%20Consent%20for%20Carrier%20Screening%2007-25-2014-FINAL_0.pdf#view=Fit
+Preparent Trio Panel Performance: http://progenity.com/sites/default/files/resources/Preparent_Trio_Carrier_Screen_Risk_Table_2016-04-11_APPROVED.pdf#view=Fit
+nxtPanel Requisition form: http://progenity.com/sites/default/files/resources/Progenity_WHReq_eform081315a.pdf#view=Fit
+Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
