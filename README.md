@@ -112,3 +112,14 @@ AJPnxt Specimen Guide: http://progenity.com/sites/default/files/resources/Womens
 
 Pan-Ethnic Carrier Screening Panel information: http://progenity.com/pan-ethnic-carrier-screening-panel
 
+verifi Prenatal Test Brochure: http://progenity.com/sites/default/files/resources/Verifi_by_Progenity_Brochure-12-16-2015-FINAL-SINGLES.pdf#view=Fit
+verifi Prental Test Fact Sheet: http://progenity.com/sites/default/files/resources/Verifi%20Fact%20Sheet-102014-FINAL_0.pdf#view=Fit
+verifi Prenatal Test Informed Consent: http://progenity.com/sites/default/files/resources/Verifi%20Prenatal%20Test%20by%20Progenity-Informed%20Consent.pdf#view=Fit
+verifi Prenatal Test Requisition form: http://progenity.com/sites/default/files/resources/Progenity_WHReq_eform081315a.pdf#view=Fit
+verifi Prenatal Test Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
+
+CMA for Pregnancy Loss Brochure: http://progenity.com/sites/default/files/resources/CMA_Pregnancy_Loss_Patient_Brochure-12-10-2015-FINAL-SINGLES.pdf#view=Fit
+CMA for Pregnancy Loss Fact Sheet: http://progenity.com/sites/default/files/resources/CMA%20Pregnancy%20Loss%20Fact%20Sheet-122014-FINAL.pdf#view=Fit
+CMA for Pregnancy Loss Gene List: http://progenity.com/sites/default/files/resources/CMA_for_Pregnancy_Loss_Gene_List_FINAL.pdf#view=Fit
+CMA for Pregnancy Loss Requisition form: http://progenity.com/sites/default/files/resources/Progenity_CMAPregLossReq_eform081915a_1.pdf#view=Fit
+CMA for Pregnancy Loss Specimen Guide: http://progenity.com/sites/default/files/resources/Womens_Health_Specimen_Guide_10-13-2015-FINAL.pdf#view=Fit
