@@ -72,6 +72,9 @@ Added "About Us" section on the main page
 Recategorized tests to "Women's Health Testing" and "Pediatric Testing" instead of "Genetic Carrier Screening" and "Testing for Genetic Abnormailities"
 Added location finder to Resources: https://web.archive.org/web/20150313171939/http://progenity.com/service-center-locations
 
+March 30, 2015:
+Changed "Results" section to only allow doctors to log in and obtain patient test results. Patients can no longer access their information.
+
 
 
 UP TO DATE INFORMATION:
